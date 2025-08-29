@@ -11,7 +11,7 @@ Due to the Power BI report `.pbix` file size being over GitHub’s upload limits
 ## 📸 Screenshots
 Key dashboard views and insights are captured below. For full interaction, please visit the live dashboard link above.
 
-![Home View](assets/home_view.png)  
+![Home View](assets/Home.png)  
 *Navigation hub with buttons to access all report pages.*
 
 ![Finance View](assets/finance_view.png)  
