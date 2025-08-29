@@ -6,7 +6,8 @@ Business Insights 360 is a comprehensive Power BI dashboard for AtliQ Hardware, 
 ## 🔗 Live Dashboard Access
 Due to the Power BI report `.pbix` file size being over GitHub’s upload limits, the interactive dashboard is available online:
 
-[Business Insights 360 - Live Power BI Report](https://your-live-powerbi-link.com)
+## 🔗 Live Dashboard
+[Business Insights 360 – Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDY3ZGQ1OWYtNTNlNi00YWEwLTk1N2QtNjk3YjliMjM3MWI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Screenshots
 Key dashboard views and insights are captured below. For full interaction, please visit the live dashboard link above.
@@ -14,19 +15,19 @@ Key dashboard views and insights are captured below. For full interaction, pleas
 ![Home View](assets/Home.jpeg) 
 *Navigation hub with buttons to access all report pages.*
 
-![Finance View](assets/finance_view.png)  
+![Finance View](assets/Finance View.jpeg)   
 *Profit & Loss overview, sales trends, and margin insights.*
 
-![Sales View](assets/sales_view.png)  
+![Sales View](assets/Sales View.jpeg)  
 *Customer and product performance with dynamic filters.*
 
-![Marketing View](assets/marketing_view.png)  
+![Marketing View](assets/Marketing View.jpeg)   
 *Campaign and segment profitability.*
 
-![Supply Chain View](assets/supply_chain_view.png)  
+![Supply Chain View](assets/Supply Chain View.jpeg)  
 *Forecast accuracy and inventory risk metrics.*
 
-![Executive View](assets/executive_view.png)  
+![Executive View](assets/Executive View.jpeg)   
 *High-level KPIs and consolidated executive insights.*
 
 ## 📂 Dataset Summary
