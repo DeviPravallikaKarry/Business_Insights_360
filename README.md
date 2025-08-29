@@ -15,19 +15,19 @@ Key dashboard views and insights are captured below. For full interaction, pleas
 ![Home View](assets/Home.jpeg) 
 *Navigation hub with buttons to access all report pages.*
 
-![Finance View](assets/Finance View.jpeg)   
+![Finance View](assets/Finance_View.jpeg)   
 *Profit & Loss overview, sales trends, and margin insights.*
 
-![Sales View](assets/Sales View.jpeg)  
+![Sales View](assets/Sales_View.jpeg)  
 *Customer and product performance with dynamic filters.*
 
-![Marketing View](assets/Marketing View.jpeg)   
+![Marketing View](assets/Marketing_View.jpeg)   
 *Campaign and segment profitability.*
 
-![Supply Chain View](assets/Supply Chain View.jpeg)  
+![Supply Chain View](assets/Supply_Chain_View.jpeg)  
 *Forecast accuracy and inventory risk metrics.*
 
-![Executive View](assets/Executive View.jpeg)   
+![Executive View](assets/Executive_View.jpeg)   
 *High-level KPIs and consolidated executive insights.*
 
 ## 📂 Dataset Summary
