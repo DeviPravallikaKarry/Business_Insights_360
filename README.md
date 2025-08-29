@@ -1,52 +1,56 @@
-# 📊 Business Insights 360 - Power BI Project
+# 📊 Business Insights 360 – Power BI Project
 
 ## 🚀 Project Overview
-Business Insights 360 is a comprehensive Power BI dashboard for AtliQ Hardware, a global company in the computers and accessories sector. It provides a 360-degree view of Finance, Sales, Marketing, Supply Chain, and Executive metrics, enabling data-driven decisions and strategic growth[1].
+Business Insights 360 is a comprehensive Power BI dashboard for AtliQ Hardware, providing a 360° view across Finance, Sales, Marketing, Supply Chain, and Executive metrics to enable data‑driven decisions and strategic growth.
 
 ## 🔗 Live Dashboard
-Due to the Power BI report `.pbix` file size exceeding GitHub upload limits, please use the live, interactive report here:
-[Business Insights 360 – Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDY3ZGQ1OWYtNTNlNi00YWEwLTk1N2QtNjk3YjliMjM3MWI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)[1].
+The Power BI `.pbix` file exceeds GitHub’s size limits. Please use the live interactive report:
+[Business Insights 360 – Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDY3ZGQ1OWYtNTNlNi00YWEwLTk1N2QtNjk3YjliMjM3MWI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Screenshots
-Key dashboard views and insights are captured below. For full interaction, please visit the live dashboard link above[1].
+Key views are shown below. For interaction, use the live link above.
 
 ![Home View](assets/Home.jpeg)  
-*Navigation hub with buttons to access all report pages*[1].
+*Navigation hub with buttons to access all report pages.*
 
 ![Finance View](assets/Finance_View.jpeg)  
-*Profit & Loss overview, sales trends, and margin insights*[1].
+*Profit & Loss overview, sales trends, and margin insights.*
 
 ![Sales View](assets/Sales_View.jpeg)  
-*Customer and product performance with dynamic filters*[1].
+*Customer and product performance with dynamic filters.*
 
 ![Marketing View](assets/Marketing_View.jpeg)  
-*Campaign and segment profitability*[1].
+*Segment performance and marketing insights.*
 
 ![Supply Chain View](assets/Supply_Chain_View.jpeg)  
-*Forecast accuracy and inventory risk metrics*[1].
+*Forecast accuracy, net error, and inventory risk.*
 
 ![Executive View](assets/Executive_View.jpeg)  
-*High-level KPIs and consolidated executive insights*[1].
+*High-level KPIs and consolidated executive insights.*
 
 ## 📂 Dataset Summary
-The report uses data from MySQL databases and Excel/CSV sources, including customer, product, market dimensions, sales and forecast facts, and cost-related data like manufacturing and freight[1].
+The report integrates MySQL and Excel/CSV sources, including customer, product, and market dimensions; monthly sales and forecasts; and cost data such as manufacturing, freight, and invoice deductions.
 
 ## 🛠 Data Modeling
-- Snowflake schema implementation for efficient querying and relationship management[1].
-- Robust data model is the foundation for all visuals and performance[1].
+- Snowflake schema for efficient relationships and scalable analysis.
+- A robust model underpins accurate visuals and fast performance.
 
 ## 💻 Technologies Used
-- Power BI Desktop, DAX, MySQL, Excel, DAX Studio[1].
+- Power BI Desktop
+- DAX (measures and calculated columns)
+- MySQL
+- Excel
+- DAX Studio (optimization)
 
 ## 📖 How to Use
-- Open screenshots for visual reference, and use the live dashboard link for interaction[1].
-- Review accompanying scripts or sample data if included in this repository[1].
+- Open screenshots for a quick overview.
+- Use the live dashboard link for full interactivity.
 
-## 🎓 Skills Gained
-- Power BI design, modeling, DAX, multi-source integration, navigation, and performance tuning[1].
+## 🎓 Skills Demonstrated
+- Data modeling (Snowflake), advanced DAX, interactive navigation (bookmarks/buttons), conditional formatting, and performance tuning.
 
-## 🤝 Contact & Contributions
-Contributions and suggestions are welcome. Please open issues or pull requests[1].
+## 🤝 Contributions
+Suggestions are welcome. Please open an issue or submit a pull request.
 
 ---
-> Transforming data into actionable business insights. 📊[1]
+> Transforming data into actionable business insights. 📊
